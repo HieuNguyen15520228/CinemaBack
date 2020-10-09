@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\api",
+    "\\api\\controllers",
+    "\\api\\routes",
+    "\\models",
+    "\\passport-jwt",
+    "\\views"
+  ],
+  "SelectedNode": "\\views\\index.handlebars",
+  "PreviewInSolutionExplorer": false
+}
